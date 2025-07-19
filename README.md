@@ -1,4 +1,4 @@
-# ev-forecast-week1
+EV-Charging_Prediction
 AICTE INTERNSHIP CYCLE-2
 
 We use Linear Regression to forecast Electric Vehicle (EV) growth in India from 2025 to 2030 using historical data.
